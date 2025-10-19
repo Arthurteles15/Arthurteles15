@@ -64,7 +64,14 @@ Sou formado em Desenvolvimento Web pelo **Instituto da Oportunidade Social (IOS)
   <img src="https://komarev.com/ghpvc/?username=Arthurteles15&label=Visitas&color=brightgreen&style=flat"/>
 </p>
 <p align="center">
-  
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthurteles15/Arthurteles15/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthurteles15/Arthurteles15/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arthurteles15/Arthurteles15/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 
