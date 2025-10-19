@@ -1,7 +1,7 @@
 # 👨‍💻 **Prazer, Arthur Teles!**
  **`Desenvolvedor Front End`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=435&lines=Olá%2C+eu+sou+o+Dev+Teles!;Desenvolvedor+Web;Apaixonado+por+Codigos <3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=435&lines=Olá%2C+eu+sou+o+Dev+Teles!;Desenvolvedor+Web;Apaixonado+por+Codigos+<3)](https://git.io/typing-svg)
 
  Sou desenvolvedor Front-End, apaixonado por tecnologia e criação de interfaces modernas e funcionais. Tenho 16 anos e estudo no **Instituto Federal de São Paulo (IFSP)**, onde curso o ensino técnico integrado em Eletrônica.
 
