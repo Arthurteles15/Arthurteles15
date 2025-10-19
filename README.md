@@ -9,6 +9,8 @@ Sou formado em Desenvolvimento Web pelo **Instituto da Oportunidade Social (IOS)
 
 <h1>🤖 Tecnologias
 
+
+<br>
 <br>
  <img style="margin-right: 20px; animation: bounce 2.0s infinite;
               position: relative;" width=50px
@@ -47,6 +49,8 @@ Sou formado em Desenvolvimento Web pelo **Instituto da Oportunidade Social (IOS)
 
 <h1>📊 Estatísticas
 
+
+<br>
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurteles15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
@@ -61,16 +65,6 @@ Sou formado em Desenvolvimento Web pelo **Instituto da Oportunidade Social (IOS)
   
 
 
-<div align="center">
 
-
-  <style>
-    @keyframes bounce {
-      0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
-      40% {transform: translateY(-20px);}
-      60% {transform: translateY(-10px);}
-    }
-  </style>
-</div>
 
 
