@@ -55,6 +55,8 @@ Sou formado em Desenvolvimento Web pelo **Instituto da Oportunidade Social (IOS)
               ;
               animation: bounce 3.2s infinite;
               position: relative;" width=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+          
           
           
           
