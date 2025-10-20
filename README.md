@@ -71,7 +71,11 @@ Sou formado em Desenvolvimento Web pelo **Instituto da Oportunidade Social (IOS)
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arthurteles15/Arthurteles15/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/70/d5/71/70d571a3a259d2d28ba5b5de0e18d98c.jpg" 
+       alt="Loading Starbucks" 
+       width="100%">
+</p>
 
 
 
