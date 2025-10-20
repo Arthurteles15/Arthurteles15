@@ -7,9 +7,16 @@
 # 👨‍💻 **Prazer, Arthur Teles!**
  **`Desenvolvedor Front End`**
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/arthurtteles_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=435&lines=Olá%2C+eu+sou+o+Arthur+Teles!;Desenvolvedor+Front-End;Apaixonado+por+tecnologia+e+inovação)](https://git.io/typing-svg)
+<br>
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/arthurtteles_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=FFFFFF)](https://open.spotify.com/user/seu-usuario)
+[![GitHub Repos](https://img.shields.io/badge/-Meus%20Repositórios-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/arthurteles15?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/seu-usuario)
+
+
+
 
  Sou desenvolvedor Front-End, apaixonado por tecnologia e criação de interfaces modernas e funcionais. Tenho 16 anos e estudo no **Instituto Federal de São Paulo (IFSP)**, onde curso o ensino técnico integrado em Eletrônica.
 
@@ -77,11 +84,6 @@ Sou formado em Desenvolvimento Web pelo **Instituto da Oportunidade Social (IOS)
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arthurteles15/Arthurteles15/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/70/d5/71/70d571a3a259d2d28ba5b5de0e18d98c.jpg" 
-       alt="Loading Starbucks" 
-       width="100%">
-</p>
 
 
 
