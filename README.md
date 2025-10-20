@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="https://i.pinimg.com/736x/93/3f/a8/933fa89df46195c342dcf7dfcd06be0b.jpg" 
+       alt="Loading Starbucks" 
+       width="100%">
+</p>
+
 # 👨‍💻 **Prazer, Arthur Teles!**
  **`Desenvolvedor Front End`**
- 
+
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/arthurtteles_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=435&lines=Olá%2C+eu+sou+o+Arthur+Teles!;Desenvolvedor+Front-End;Apaixonado+por+tecnologia+e+inovação)](https://git.io/typing-svg)
