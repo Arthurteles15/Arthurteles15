@@ -43,10 +43,6 @@ Sou formado em Desenvolvimento Web pelo **Instituto da Oportunidade Social (IOS)
               ;
               animation: bounce 2.6s infinite;
               position: relative;" width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-<img style=" margin-right: 20px; border-radius: 50%;
-              ;
-              animation: bounce 2.8s infinite;
-              position: relative;" width=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img style="margin-right: 20px; border-radius: 50%;
               ;
               animation: bounce 3s infinite;
