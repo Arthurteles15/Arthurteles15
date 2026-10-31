@@ -20,7 +20,7 @@
 
 
 
- Sou desenvolvedor Front-End, apaixonado por tecnologia e criação de interfaces modernas e funcionais. Tenho 16 anos e estudo no **Instituto Federal de São Paulo (IFSP)**, onde curso o ensino técnico integrado em Eletrônica.
+ Sou desenvolvedor Front-End, apaixonado por tecnologia e criação de interfaces modernas e funcionais. Tenho 17 anos e estudo no **Instituto Federal de São Paulo (IFSP)**, onde curso o ensino técnico integrado em Eletrônica.
 
 Sou formado em Desenvolvimento Web pelo **Instituto da Oportunidade Social (IOS)**, onde aprendi a construir sites e aplicações responsivas, com foco em boas práticas e experiência do usuário.
 
